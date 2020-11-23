@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<sentences>
+		<sentence id="0">
+			<text>器材最好能再更新一下 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="器材"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="质量" category="设施" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="1">
+			<text>课程评分标准在学期初似乎不够明确 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="评分标准"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="评分" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="2">
+			<text>考试大多数是记忆 理论部分理解不深 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="记忆"/>
+				<aspectTerm polarity="-1" term="理论部分"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="考试" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="3">
+			<text>老师应该多与学生互动，语速放慢</text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="互动"/>
+				<aspectTerm polarity="-1" term="语速"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="形式" category="教学" polarity="-1"/>
+				<aspectCategory attribute="声音" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="4">
+			<text>可以多展示作品而不局限于PPT上的图片分析</text>
+			<aspectTerms>
+				<aspectTerm polarity="-1 " term="作品"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="5">
+			<text>建议平时多拿些模型来供学生参考。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="模型"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="6">
+			<text>感觉老师上课时有点紧张~~~~~ </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="上课"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="氛围" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="7">
+			<text>老师上课偶尔会莫名地大笑，希望能够改进</text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="大笑"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="个人魅力" category="老师" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="8">
+			<text>老师讲的过于哲学化 理解起来有些困难</text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="老师讲的"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="9">
+			<text>请上课不要莫名其妙笑出声…… </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="笑出声"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="个人魅力" category="老师" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="10">
+			<text>没有在学期初明确课程作业具体要求。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="课程作业具体要求"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="任务" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="11">
+			<text>想了解一些基础的建筑知识。  </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="基础的建筑知识"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="12">
+			<text>老师备课的时候可以准备得更加充分一点 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="备课"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="态度" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="13">
+			<text>老师需要再正常一点，讲课突然笑起来有点迷茫 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="老师"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="个人魅力" category="老师" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="14">
+			<text>作业难度偏大，PPT内容有点简略 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="作业难度"/>
+				<aspectTerm polarity="-1" term="PPT内容"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="任务" category="课程" polarity="-1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="15">
+			<text>没什么问题，都挺好的</text>
+			<aspectCategories>
+				<aspectCategory attribute="总体" category="总体" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="16">
+			<text>老师上课的方式以及对同学们的提问等态度需要提高 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="上课的方式"/>
+				<aspectTerm polarity="-1" term="态度"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="形式" category="教学" polarity="-1"/>
+				<aspectCategory attribute="态度" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="17">
+			<text>最后的论文有点突然，希望能早点布置 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="论文"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="任务" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="18">
+			<text>平时分数给分不清楚，打分不公平</text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="给分"/>
+				<aspectTerm polarity="-1" term="打分"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="评分" category="课程" polarity="-1"/>
+				<aspectCategory attribute="评分" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="19">
+			<text>小组讨论课存在划水现象 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="讨论课"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="形式" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="20">
+			<text>可以让同学们做一些实地观察 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="实地观察"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="形式" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="21">
+			<text>可以让同学们做一些实地观察 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="实地观察"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="形式" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="22">
+			<text>上课更有点激情就好了</text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="激情"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="个人魅力" category="老师" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="23">
+			<text>多有几节实践课，真的非常喜欢实践课。</text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="实践课"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="形式" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="24">
+			<text>需要记忆的东西比较多，比较麻烦 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="需要记忆的东西"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="考试" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="25">
+			<text>希望能突出考试知识点</text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="考试知识点"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="安排" category="考试" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="26">
+			<text>老师可以提前介绍一下考试形式和内容 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="考试形式和内容"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="安排" category="考试" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="27">
+			<text>没有改进意见，已经很好啦 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="改进意见"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="总体" category="总体" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="28">
+			<text>希望助教能更加及时的上传相关资料。</text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="上传相关资料"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="态度" category="助教" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="29">
+			<text>介绍各地区民族音乐的讲义可以更活泼生动一些</text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="讲义"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="30">
+			<text>老师可以抽同学回答问题</text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="回答问题"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="形式" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="31">
+			<text>文科生相对有点难度，推荐文科生开卷考试</text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="难度"/>
+				<aspectTerm polarity="-1" term="开卷考试"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="难度" category="考试" polarity="-1"/>
+				<aspectCategory attribute="安排" category="考试" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="32">
+			<text>可能上课再多点互动就好了</text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="互动"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="形式" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="33">
+			<text>希望能组织一些实验室参观等等活动 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="活动"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="形式" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="34">
+			<text>如果老师可以先讲一下概念然后做题目会比较好</text>
+			<aspectCategories>
+				<aspectCategory attribute="形式" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="35">
+			<text>教材的框架结构不严谨，知识点系统性略差 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="教材的框架结构"/>
+				<aspectTerm polarity="-1" term="知识点系统性"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="36">
+			<text>希望能对作业进行解答</text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="解答"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="态度" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="37">
+			<text>可以抽同学回答问题，不然有的同学可能会不认真 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="回答问题"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="形式" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="38">
+			<text>可以抽同学回答问题，不然有的同学可能会不认真 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="回答问题"/>
+				<aspectTerm polarity="-1" term="认真"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="形式" category="教学" polarity="-1"/>
+				<aspectCategory attribute="氛围" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="39">
+			<text>希望能对作业做些改进 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="作业"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="任务" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="40">
+			<text>知识体系需要更完备 讲解要符合可接受的难度 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="知识体系"/>
+				<aspectTerm polarity="-1" term="讲解"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+				<aspectCategory attribute="能力" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="41">
+			<text>希望课件上的错别字少一点。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="课件上的错别字"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="态度" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="42">
+			<text>合理安排李白杜甫进度。。。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="进度"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="时间安排" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="43">
+			<text>考试需要准备的内容真的太多了！</text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="考试需要准备的内容"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="考试" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="44">
+			<text>讲义和PPT上的错别字能不能少一点？？？ </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="讲义和PPT上的错别字"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="态度" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="45">
+			<text>PPT上的错误少一点。</text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="PPT上的错误"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="态度" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="46">
+			<text>ppt制作可以再精准一点 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="ppt制作"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="态度" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="47">
+			<text>很多知识点PPT上没有，上课很容易就错过了 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="PPT"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="态度" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="48">
+			<text>内容过多繁杂，难度大 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="内容"/>
+				<aspectTerm polarity="-1" term="难度"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="49">
+			<text>希望能更贴近现实的生活，和课题的关联度大一些</text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="和课题的关联度"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="50">
+			<text>希望裴老师上课语速稍微慢一点点 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="语速"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="声音" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="51">
+			<text>可以再贴近生活一点</text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="贴近生活"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="52">
+			<text>课堂内容有时真心挺多的</text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="课堂内容"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="53">
+			<text>可以多一些课堂互动，增强课堂氛围。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="课堂互动"/>
+				<aspectTerm polarity="-1" term="课堂氛围"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="形式" category="教学" polarity="-1"/>
+				<aspectCategory attribute="氛围" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="54">
+			<text>有些东西文科生真的不懂  </text>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="55">
+			<text>部分知识点难以理解，讲授的比较快。</text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="知识点"/>
+				<aspectTerm polarity="-1" term="讲授"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+				<aspectCategory attribute="能力" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="56">
+			<text>老师应该更加有系统性解答问题 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="解答问题 "/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="能力" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="57">
+			<text>可以多安排一些种植实践课~ </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="实践课"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="形式" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="58">
+			<text>适当缩小下难度，更多地指导大家的论文写作 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="难度"/>
+				<aspectTerm polarity="-1" term="指导"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+				<aspectCategory attribute="态度" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="59">
+			<text>没有需要改进的，不同老师的讲课都很好。</text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="改进"/>
+				<aspectTerm polarity="1" term="讲课"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="总体" category="总体" polarity="1"/>
+				<aspectCategory attribute="教学" category="总体" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="60">
+			<text>可以多组织一些同学间的互动。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="互动"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="形式" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="61">
+			<text>如果能讲得慢一点，大家会理解得更清楚 </text>
+			<aspectCategories>
+				<aspectCategory attribute="时间安排" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="62">
+			<text>讨论课次数多但是质量一般，大家都比较水。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="质量"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="氛围" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="63">
+			<text>老师可以多跟我们互动 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="互动"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="形式" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="64">
+			<text>助教参与度如果再高一点就好了。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="助教参与度"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="态度" category="助教" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="65">
+			<text>名著文本的选择可以稍稍打破传统观念 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="名著文本的选择"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="66">
+			<text>还可以更加扩展视野，了解更多相关知识。</text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="视野"/>
+				<aspectTerm polarity="-1" term="相关知识"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="67">
+			<text>讲课时可以更加系统一些，方便学生做笔记 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="讲课"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="能力" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="68">
+			<text>稍微再深入一些，或许可以按中文系的难度上课。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="难度"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="69">
+			<text>完美！！我想把这门课推荐别人</text>
+			<aspectCategories>
+				<aspectCategory attribute="总体" category="总体" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="70">
+			<text>课程内容太多，可以少而精点。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="课程内容"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="71">
+			<text>一堂课的阅读任务过于庞大，希望能够精准一点  </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="阅读任务"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="任务" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="72">
+			<text>老师讲的内容较少，多是同学发言 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="老师讲的内容"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="73">
+			<text>她的课都有意义，所以我得到了很多的知识 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="意义"/>
+				<aspectTerm polarity="1" term="知识"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="课程" category="总体" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="74">
+			<text>课堂有点沉闷，希望能活跃一点。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="课堂"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="氛围" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="75">
+			<text>最后期末考题范围可以更广一点。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="期末考题范围"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="考试" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="76">
+			<text>认为可以增加学生可以参与的活动  </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="学生可以参与的活动  "/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="形式" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="77">
+			<text>老师跟同学可以有更多互动。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="互动 "/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="形式" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="78">
+			<text>讲课语速更快一点会更好。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="语速 "/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="声音" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="79">
+			<text>希望能安排一些趣味性的话题。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="趣味性的话题"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="80">
+			<text>可以每周布置一些小作业，非课后的那种 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="作业"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="任务" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="81">
+			<text>最好第一节课就讲好考核标准。</text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="考核标准"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="评分" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="82">
+			<text>暂时没有需要改进的地方。</text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="需要改进的地方"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="总体" category="总体" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="83">
+			<text>多增加一些交流的机会 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="交流的机会"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="形式" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="84">
+			<text>老师讲的真的很好，收获很多，暂时没有意见 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="老师讲的"/>
+				<aspectTerm polarity="1" term="收获"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="教学" category="总体" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="85">
+			<text>没有什么需要改进的地方 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="需要改进的地方 "/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="总体" category="总体" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="86">
+			<text>上课形式希望多元一点 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="上课形式"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="形式" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="87">
+			<text>想不起来……都挺好的啊</text>
+			<aspectCategories>
+				<aspectCategory attribute="总体" category="总体" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="88">
+			<text>课堂可以叫同学们多些参与 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="参与"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="形式" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="89">
+			<text>这个我真的想不出来了~挺好的，真的很好！</text>
+			<aspectCategories>
+				<aspectCategory attribute="总体" category="总体" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="90">
+			<text>暂时没有需要改进的地方。</text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="需要改进的地方"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="总体" category="总体" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="91">
+			<text>五篇读笔任务还是蛮大的  </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="任务"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="任务" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="92">
+			<text>对课程作业的反馈再多一点就好了   </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="对课程作业的反馈"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="态度" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="93">
+			<text>希望得到更多关于读书报告的指点和评价  </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="指点和评价"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="态度" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="94">
+			<text>可以增加一些案例讲解 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="案例讲解"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="95">
+			<text>对于其他院系的来说，内容过多，接受有点困难 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="内容"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="96">
+			<text>讲课声音能再大点就更好了 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="讲课声音"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="声音" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="97">
+			<text>满是文字的课件让人昏昏欲睡，可以讲多点实事 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="满是文字的课件"/>
+				<aspectTerm polarity="-1" term="实事"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="氛围" category="教学" polarity="-1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="98">
+			<text>不用吧，但老师的声音有点小 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="老师的声音"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="声音" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="99">
+			<text>老师普通话再标准点就好啦  </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="普通话"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="声音" category="教学" polarity="-1"/>
+			</aspectCategories>
+		</sentence>
+	</sentences>

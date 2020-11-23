@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<sentences>
+		<sentence id="0">
+			<text>真的超级喜欢老师，善于用亲和的态度跟学生交流 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="态度"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="个人魅力" category="老师" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="1">
+			<text>老师上课很有个人风格，能结合许多事例授课 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="个人风格"/>
+				<aspectTerm polarity="1" term="授课"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="个人魅力" category="老师" polarity="1"/>
+				<aspectCategory attribute="能力" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="2">
+			<text>充满激情，拓展视野，培养阅读文献的能力 </text>
+			<aspectCategories>
+				<aspectCategory attribute="个人魅力" category="老师" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="3">
+			<text>老师讲课关注于社会问题，培养学生的家国情怀 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="讲课"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="4">
+			<text>老师学术能力强！超认真！ </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="学术能力"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="学术能力" category="老师" polarity="1"/>
+				<aspectCategory attribute="态度" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="5">
+			<text>老师学术素养高，且教学社会关怀导向</text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="学术素养"/>
+				<aspectTerm polarity="1" term="教学"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="学术能力" category="老师" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="6">
+			<text>老师认真授课的态度和积极的准备 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="态度"/>
+				<aspectTerm polarity="1" term="准备"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="态度" category="教学" polarity="1"/>
+				<aspectCategory attribute="态度" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="7">
+			<text>信息清楚明了，对于理解理论知识十分有帮助 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="信息"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="8">
+			<text>对于一些基本手术操作有了认识 </text>
+			<aspectTerms>
+				<aspectTerm polarity="0" term="手术操作"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="9">
+			<text>学会了基本的原理和解谱技术 </text>
+			<aspectTerms>
+				<aspectTerm polarity="0" term="原理"/>
+				<aspectTerm polarity="0" term="技术"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="10">
+			<text>屠老师很认真负责地讲授知识 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="讲授知识"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="态度" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="11">
+			<text>课程安排合理，讲授清晰 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="课程安排"/>
+				<aspectTerm polarity="1" term="讲授"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="时间安排" category="课程" polarity="1"/>
+				<aspectCategory attribute="能力" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="12">
+			<text>第一次学医术，挺有趣 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="医术"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="13">
+			<text>内容丰富，含有动手实践内容。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="内容"/>
+				<aspectTerm polarity="1" term="动手实践"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="形式" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="14">
+			<text>课程很有趣，可以很大的开发脑洞及动手能力。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="课程"/>
+				<aspectTerm polarity="1" term="动手能力"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="形式" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="15">
+			<text>老师有意思一边讲一边笑 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="老师"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="个人魅力" category="老师" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="16">
+			<text>课程拓展很多，覆盖知识面很广 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="课程拓展"/>
+				<aspectTerm polarity="1" term="知识面"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="17">
+			<text>老师上课十分热情，十分投入 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="上课"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="态度" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="18">
+			<text>老师很负责任，人很好很温柔。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="人"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="个人魅力" category="老师" polarity="1"/>
+				<aspectCategory attribute="态度" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="19">
+			<text>上课形式比较自由，作业比较轻松，老师很幽默。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="上课形式"/>
+				<aspectTerm polarity="1" term="作业"/>
+				<aspectTerm polarity="1" term="老师"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="形式" category="教学" polarity="1"/>
+				<aspectCategory attribute="任务" category="课程" polarity="1"/>
+				<aspectCategory attribute="个人魅力" category="老师" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="20">
+			<text>很深入地和我们分析了艺术和绘画的风格与欣赏角度 </text>
+			<aspectTerms>
+				<aspectTerm polarity="0" term="艺术"/>
+				<aspectTerm polarity="0" term="绘画的风格"/>
+				<aspectTerm polarity="0" term="欣赏角度"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="21">
+			<text>喜欢老师的课！见了好多好棒的艺术品啊 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="课"/>
+				<aspectTerm polarity="1" term="艺术品"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="22">
+			<text>上课内容充实丰富，老师知识广博 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="上课内容"/>
+				<aspectTerm polarity="1" term="老师知识"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="学术能力" category="老师" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="23">
+			<text>课程内容生动丰富，学生作品评价认真 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="课程内容"/>
+				<aspectTerm polarity="1" term="评价"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="评分" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="24">
+			<text>我满意这门课的内容。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="这门课的内容"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="25">
+			<text>对构成艺术有了初步的了解 </text>
+			<aspectTerms>
+				<aspectTerm polarity="0" term="艺术"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="26">
+			<text>老实人很和蔼，像朋友一样和我们交流。</text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="老实"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="个人魅力" category="老师" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="27">
+			<text>好，老师专业知识很强 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="专业知识"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="学术能力" category="老师" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="28">
+			<text>老师很好，人也很活泼 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="老师"/>
+				<aspectTerm polarity="1" term="人"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="个人魅力" category="老师" polarity="1"/>
+				<aspectCategory attribute="个人魅力" category="老师" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="29">
+			<text>讲解细致全面，幻灯片图片很精美！ </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="讲解"/>
+				<aspectTerm polarity="1" term="幻灯片图片"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="能力" category="教学" polarity="1"/>
+				<aspectCategory attribute="能力" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="30">
+			<text>老师风趣幽默，知识渊博。</text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="老师"/>
+				<aspectTerm polarity="1" term="知识"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="个人魅力" category="老师" polarity="1"/>
+				<aspectCategory attribute="学术能力" category="老师" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="31">
+			<text>上课讲的内容具体，有充足的事例帮助理解 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="上课讲的内容"/>
+				<aspectTerm polarity="1" term="事例"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="32">
+			<text>课程内容丰富，干货很多! </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="课程内容"/>
+				<aspectTerm polarity="1" term="干货"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="33">
+			<text>嗯。。。内容挺充实的 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="内容"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="34">
+			<text>老师讲解深入浅出，富有趣味。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="老师讲解"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="能力" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="35">
+			<text>老师上课很负责，知识点很广。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="上课"/>
+				<aspectTerm polarity="1" term="知识点"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="态度" category="教学" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="36">
+			<text>课程很详细，能调动大家积极性 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="课程"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="37">
+			<text>老师讲课很有意思，干货很多。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="讲课"/>
+				<aspectTerm polarity="1" term="干货"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="能力" category="教学" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="38">
+			<text>老师知识面很宽 特别可爱 干货多 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="知识面"/>
+				<aspectTerm polarity="1" term="干货"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="学术能力" category="老师" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="个人魅力" category="老师" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="39">
+			<text>老师和蔼可亲，讲课涉及很多领域，课程比较有趣。</text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="讲课"/>
+				<aspectTerm polarity="1" term="课程"/>
+				<aspectTerm polarity="1" term="老师"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="能力" category="教学" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="个人魅力" category="老师" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="40">
+			<text>干货满满，老师很有文学范 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="干货"/>
+				<aspectTerm polarity="1" term="老师"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="个人魅力" category="老师" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="41">
+			<text>老师平易近人，热心解答同学的疑问，认真负责 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="老师"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="个人魅力" category="老师" polarity="1"/>
+				<aspectCategory attribute="态度" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="42">
+			<text>老师认真授课的态度和积极的准备</text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="态度"/>
+				<aspectTerm polarity="1" term="准备"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="态度" category="教学" polarity="1"/>
+				<aspectCategory attribute="态度" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="43">
+			<text>老师讲课很认真，内容很丰富，期末DDL很宽松 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="讲课"/>
+				<aspectTerm polarity="1" term="内容"/>
+				<aspectTerm polarity="1" term="期末DDL"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="态度" category="教学" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="任务" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="44">
+			<text>具有启发性，轻松有趣 </text>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="45">
+			<text>拓展的范围以及微信的互动很好，同学的参与程度高 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="拓展的范围"/>
+				<aspectTerm polarity="1" term="微信的互动"/>
+				<aspectTerm polarity="1" term="参与程度"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="形式" category="教学" polarity="1"/>
+				<aspectCategory attribute="形式" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="46">
+			<text>贴近生活，结合时事，很现实很具体 </text>
+			<aspectTerms>
+				<aspectTerm polarity="0" term="时事"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="47">
+			<text>给出的材料紧密联系生活 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="材料"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="48">
+			<text>内容充实，主题明确。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="内容"/>
+				<aspectTerm polarity="1" term="主题"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="49">
+			<text>上课充满活力，生动有趣 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="上课"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="能力" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="50">
+			<text>上课较为有趣，有主观能动性去吸收知识 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="上课"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="能力" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="51">
+			<text>知道最近环境污染问题，学了怎么解决这些环境问题 </text>
+			<aspectTerms>
+				<aspectTerm polarity="0" term="环境污染问题"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="52">
+			<text>老师对这门课的关心特别多，喜欢跟同学们交流 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="关心"/>
+				<aspectTerm polarity="1" term="交流"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="态度" category="教学" polarity="1"/>
+				<aspectCategory attribute="态度" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="53">
+			<text>老师风趣幽默，课程和实事联系密切。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="老师"/>
+				<aspectTerm polarity="1" term="课程"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="个人魅力" category="老师" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="54">
+			<text>大概了解了一些环境问题。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="0" term="环境问题"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="55">
+			<text>老师与学生间的互动很多，相当的亲和！ </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="互动"/>
+				<aspectTerm polarity="1" term="老师"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="形式" category="教学" polarity="1"/>
+				<aspectCategory attribute="个人魅力" category="老师" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="56">
+			<text>内容丰富翔实，实用性好 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="内容"/>
+				<aspectTerm polarity="1" term="实用性"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="57">
+			<text>较为详细地介绍了许多音乐知识</text>
+			<aspectTerms>
+				<aspectTerm polarity="0" term="音乐知识"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="58">
+			<text>课堂氛围比较好，其乐融融，部分音乐很不错 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="课堂氛围"/>
+				<aspectTerm polarity="1" term="音乐"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="氛围" category="教学" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="59">
+			<text>在音乐中体验不同的文化 </text>
+			<aspectTerms>
+				<aspectTerm polarity="0" term="音乐"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="60">
+			<text>老师非常热情，课程内容有趣生动。</text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="老师"/>
+				<aspectTerm polarity="1" term="课程内容"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="个人魅力" category="老师" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="61">
+			<text>老师讲课清楚，比较有趣 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="讲课"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="能力" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="62">
+			<text>老师个人声乐修养高，而且很热情 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="声乐修养"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="学术能力" category="老师" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="63">
+			<text>了解了很多知识，轻松有趣。</text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="知识"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="能力" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="64">
+			<text>老师让我们领略到世界各地的音乐文化，生动有趣 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="音乐文化"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="能力" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="65">
+			<text>老师讲课内容丰富，授课生动幽默 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="讲课内容"/>
+				<aspectTerm polarity="1" term="授课"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="能力" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="66">
+			<text>实例很多，丰富课堂知识，帮助理解 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="实例"/>
+				<aspectTerm polarity="1" term="课堂知识"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="67">
+			<text>讲的很前沿，很有启发性 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="讲"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="68">
+			<text>课程内容综合性强，讲解引人入胜，老师十分耐心</text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="课程内容"/>
+				<aspectTerm polarity="1" term="讲解"/>
+				<aspectTerm polarity="1" term="老师"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="能力" category="教学" polarity="1"/>
+				<aspectCategory attribute="态度" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="69">
+			<text>对程老师的教学认真态度非常满意 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="教学"/>
+				<aspectTerm polarity="1" term="态度"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="态度" category="教学" polarity="1"/>
+				<aspectCategory attribute="态度" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="70">
+			<text>老师让我了解如何解数学题。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="0" term="数学题"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="71">
+			<text>大爱微生物！课程十分有趣，老师讲得也很好！ </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="微生物"/>
+				<aspectTerm polarity="1" term="课程"/>
+				<aspectTerm polarity="1" term="讲"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="能力" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="72">
+			<text>老师讲解很详细，认真 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="讲解"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="态度" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="73">
+			<text>上课认真，老师也很积极，挺好 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="上课"/>
+				<aspectTerm polarity="1" term="老师"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="态度" category="教学" polarity="1"/>
+				<aspectCategory attribute="态度" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="74">
+			<text>老师讲课很系统，信息量较大，且能够结合热点。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="讲课"/>
+				<aspectTerm polarity="1" term="信息量"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="能力" category="教学" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="75">
+			<text>PPT内容充实，讲得较为深入，认真听很有收获 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="PPT内容"/>
+				<aspectTerm polarity="1" term="讲"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="能力" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="76">
+			<text>没什么问题问题，都挺好的</text>
+			<aspectCategories>
+				<aspectCategory attribute="总体" category="总体" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="77">
+			<text>课程对于留学生有点困难，但总体很满意 </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="课程"/>
+				<aspectTerm polarity="1" term="总体"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="-1"/>
+				<aspectCategory attribute="总体" category="总体" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="78">
+			<text>学的内容比较吸引人 实用性强 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="内容"/>
+				<aspectTerm polarity="1" term="实用性"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="79">
+			<text>老师上课很生动，教材也很丰富 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="上课"/>
+				<aspectTerm polarity="1" term="教材"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="能力" category="教学" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="80">
+			<text>在老师的课上能够学到很多东西，背诵到很多诗歌。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="老师的课"/>
+				<aspectTerm polarity="1" term="诗歌"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="能力" category="教学" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="81">
+			<text>系统地讲解李杜知识  老师幽默 </text>
+			<aspectTerms>
+				<aspectTerm polarity="0" term="李杜知识"/>
+				<aspectTerm polarity="1" term="老师"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="个人魅力" category="老师" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="82">
+			<text>老师上课很好，可以学到很多东西 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="上课"/>
+				<aspectTerm polarity="1" term="东西"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="能力" category="教学" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="83">
+			<text>老师亲切有趣，课上干货很多！助教小姐姐很棒！ </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="老师"/>
+				<aspectTerm polarity="1" term="干货"/>
+				<aspectTerm polarity="1" term="助教小姐姐"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="个人魅力" category="老师" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="助教" category="总体" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="84">
+			<text>上课内容详实，老师很博学 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="内容"/>
+				<aspectTerm polarity="1" term="老师"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="学术能力" category="老师" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="85">
+			<text>该课程让我学到了原先不懂的知识 </text>
+			<aspectTerms>
+				<aspectTerm polarity="0" term="知识"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="86">
+			<text>老师人特别好，上课也讲得特别详实易懂。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="老师"/>
+				<aspectTerm polarity="1" term="上课"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="个人魅力" category="老师" polarity="1"/>
+				<aspectCategory attribute="能力" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="87">
+			<text>老师是一个有趣的人，有情怀，</text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="老师"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="个人魅力" category="老师" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="88">
+			<text>老师对我们很好，课也很有趣 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="老师"/>
+				<aspectTerm polarity="1" term="课"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="态度" category="教学" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="89">
+			<text>老师讲课很生动有趣，获取了很多知识 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="讲课"/>
+				<aspectTerm polarity="1" term="知识"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="能力" category="教学" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="90">
+			<text>老师很风趣，课很充实 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="老师"/>
+				<aspectTerm polarity="1" term="课"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="个人魅力" category="老师" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="91">
+			<text>很好玩！最后考试理科部分的东西也不是很多~ </text>
+			<aspectTerms>
+				<aspectTerm polarity="-1" term="理科部分的东西"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="考试" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="92">
+			<text>，我很敬佩把兴趣当职业的人 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="人"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="个人魅力" category="老师" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="93">
+			<text>内容很有趣很丰富很实用 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="内容"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="94">
+			<text>很有趣，有利于培养对植物的基本认知和兴趣</text>
+			<aspectTerms>
+				<aspectTerm polarity="0" term="植物"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="95">
+			<text>课程内容详细，形式多样，课堂气氛活跃 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="课程内容"/>
+				<aspectTerm polarity="1" term="形式"/>
+				<aspectTerm polarity="1" term="课堂气氛"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="形式" category="教学" polarity="1"/>
+				<aspectCategory attribute="氛围" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="96">
+			<text>认识植物，丰富生活。 </text>
+			<aspectTerms>
+				<aspectTerm polarity="0" term="植物"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="97">
+			<text>老师备课很充分，讲解深入浅出 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="备课"/>
+				<aspectTerm polarity="1" term="讲解"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="态度" category="教学" polarity="1"/>
+				<aspectCategory attribute="能力" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="98">
+			<text>老师授课有条理，有重点 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="授课"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="能力" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="99">
+			<text>老师上课很仔细，使我们对知识点有深入的了解 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="上课"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="态度" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="100">
+			<text>老师人好，讲课讲得很仔细很清楚 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="老师人"/>
+				<aspectTerm polarity="1" term="讲课"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="老师" category="总体" polarity="1"/>
+				<aspectCategory attribute="能力" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="101">
+			<text>学到了很多东西，对文学开始感兴趣 </text>
+			<aspectTerms>
+				<aspectTerm polarity="0" term="东西"/>
+				<aspectTerm polarity="0" term="文学"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+				<aspectCategory attribute="内容" category="课程" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="102">
+			<text>讨论课很有趣，老师讲得很棒</text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="讨论课"/>
+				<aspectTerm polarity="1" term="讲"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="形式" category="教学" polarity="1"/>
+				<aspectCategory attribute="能力" category="教学" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+		<sentence id="103">
+			<text>很好的老师很好的课程 </text>
+			<aspectTerms>
+				<aspectTerm polarity="1" term="老师"/>
+				<aspectTerm polarity="1" term="课程"/>
+			</aspectTerms>
+			<aspectCategories>
+				<aspectCategory attribute="老师" category="总体" polarity="1"/>
+				<aspectCategory attribute="课程" category="总体" polarity="1"/>
+			</aspectCategories>
+		</sentence>
+	</sentences>
